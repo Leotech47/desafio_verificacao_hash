@@ -1,6 +1,8 @@
-# desafio_verificacao_hash
+# 🧐desafio_verificacao_hash
 Verificação de Integridade de Arquivos com Hashes
 # Verificador de Integridade de Arquivos
+## Curso Fundamentos de Cibersegurança - Plataforma DIO
+
 
 ## 📌 Descrição
 Você foi encarregado de criar um sistema simples que verifica a integridade de arquivos, comparando o hash fornecido pelo usuário com o hash real do arquivo.  
